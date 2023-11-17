@@ -51,5 +51,6 @@ This Streamlit app allows users to analyze word similarity using Principal Compo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-##Link to App
-#https://similaritychecker.streamlit.app/
+## Link to App
+
+# https://similaritychecker.streamlit.app/
