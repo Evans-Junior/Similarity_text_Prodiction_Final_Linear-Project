@@ -14,7 +14,7 @@ This Streamlit app allows users to analyze word similarity using Principal Compo
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/word-similarity-analysis.git
+    git clone https://github.com/Evans-Junior/Similarity_text_Prodiction_Final_Linear-Project
     cd word-similarity-analysis
     ```
 
